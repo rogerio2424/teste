@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xml:lang="pt-BR" xmlns="http://www.idpf.org/2007/opf">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:identifier>978-65-84633-79-7</dc:identifier>
+<dc:creator id="cre">Fernando A. Pires</dc:creator>
+<meta refines="#cre" property="role" scheme="marc:relators">aut</meta>
+<dc:publisher>Palavras Projetos Editoriais</dc:publisher>
+
+<dc:title>Oswaaaaaldo</dc:title>
+<dc:date>2023-03-06T12:56:12Z</dc:date>
+<dc:language>pt-BR</dc:language>
+<dc:description>Oswaaaaaldo</dc:description>
+<dc:date opf:event="modification">2023-08-17</dc:date>
+<meta content="Adobe InDesign 18.1" name="generator"/>
+<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+<meta property="schema:accessibilitySummary">In addition to meeting accessibility standards,
+   this publication includes sign language
+   interpretation for all video content.</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta name="cover" content="capa.png"/>
+<x-metadata>
+<embeddedcover>cover.jpg</embeddedcover>
+</x-metadata></metadata>
+<manifest>
+<item id="Poppins-Bold.ttf" href="resources/fonts/Poppins-Bold.ttf" media-type="font/ttf"/>
+<item id="Poppins-BoldItalic.ttf" href="resources/fonts/Poppins-BoldItalic.ttf" media-type="font/ttf"/>
+<item id="Poppins-Italic.ttf" href="resources/fonts/Poppins-Italic.ttf" media-type="font/ttf"/>
+<item id="Poppins-Regular.ttf" href="resources/fonts/Poppins-Regular.ttf" media-type="font/ttf"/>
+<item id="Roboto.zip" href="Misc/Roboto.zip" media-type="text/plain"/>
+<item id="capa.png" href="resources/images/capa.png" media-type="image/png" properties="cover-image"/>
+<item id="cavalo.png" href="resources/images/cavalo.png" media-type="image/png"/>
+<item id="design.css" href="resources/styles/design.css" media-type="text/css"/>
+<item id="imagem.79.jpg" href="resources/images/imagem.79.jpg" media-type="image/jpeg"/>
+<item id="imagem.80.jpg" href="resources/images/imagem.80.jpg" media-type="image/jpeg"/>
+<item id="imagem1.png" href="resources/images/imagem1.png" media-type="image/png"/>
+<item id="imagem10.jpg" href="resources/images/imagem10.jpg" media-type="image/jpeg"/>
+<item id="imagem11.png" href="resources/images/imagem11.png" media-type="image/png"/>
+<item id="imagem12.jpg" href="resources/images/imagem12.jpg" media-type="image/jpeg"/>
+<item id="imagem13.jpg" href="resources/images/imagem13.jpg" media-type="image/jpeg"/>
+<item id="imagem14.png" href="resources/images/imagem14.png" media-type="image/png"/>
+<item id="imagem15.png" href="resources/images/imagem15.png" media-type="image/png"/>
+<item id="imagem16.png" href="resources/images/imagem16.png" media-type="image/png"/>
+<item id="imagem17.png" href="resources/images/imagem17.png" media-type="image/png"/>
+<item id="imagem18.png" href="resources/images/imagem18.png" media-type="image/png"/>
+<item id="imagem19.jpg" href="resources/images/imagem19.jpg" media-type="image/jpeg"/>
+<item id="imagem2.png" href="resources/images/imagem2.png" media-type="image/png"/>
+<item id="imagem20.jpg" href="resources/images/imagem20.jpg" media-type="image/jpeg"/>
+<item id="imagem21.png" href="resources/images/imagem21.png" media-type="image/png"/>
+<item id="imagem22.jpg" href="resources/images/imagem22.jpg" media-type="image/jpeg"/>
+<item id="imagem23.png" href="resources/images/imagem23.png" media-type="image/png"/>
+<item id="imagem24.png" href="resources/images/imagem24.png" media-type="image/png"/>
+<item id="imagem25.png" href="resources/images/imagem25.png" media-type="image/png"/>
+<item id="imagem26.jpg" href="resources/images/imagem26.jpg" media-type="image/jpeg"/>
+<item id="imagem27.jpg" href="resources/images/imagem27.jpg" media-type="image/jpeg"/>
+<item id="imagem28.png" href="resources/images/imagem28.png" media-type="image/png"/>
+<item id="imagem29.png" href="resources/images/imagem29.png" media-type="image/png"/>
+<item id="imagem3.png" href="resources/images/imagem3.png" media-type="image/png"/>
+<item id="imagem30.jpg" href="resources/images/imagem30.jpg" media-type="image/jpeg"/>
+<item id="imagem31.jpg" href="resources/images/imagem31.jpg" media-type="image/jpeg"/>
+<item id="imagem32.png" href="resources/images/imagem32.png" media-type="image/png"/>
+<item id="imagem33.png" href="resources/images/imagem33.png" media-type="image/png"/>
+<item id="imagem34.jpg" href="resources/images/imagem34.jpg" media-type="image/jpeg"/>
+<item id="imagem35.png" href="resources/images/imagem35.png" media-type="image/png"/>
+<item id="imagem36.jpg" href="resources/images/imagem36.jpg" media-type="image/jpeg"/>
+<item id="imagem37.png" href="resources/images/imagem37.png" media-type="image/png"/>
+<item id="imagem38.jpg" href="resources/images/imagem38.jpg" media-type="image/jpeg"/>
+<item id="imagem39.png" href="resources/images/imagem39.png" media-type="image/png"/>
+<item id="imagem4.png" href="resources/images/imagem4.png" media-type="image/png"/>
+<item id="imagem40.png" href="resources/images/imagem40.png" media-type="image/png"/>
+<item id="imagem41.jpg" href="resources/images/imagem41.jpg" media-type="image/jpeg"/>
+<item id="imagem42.jpg" href="resources/images/imagem42.jpg" media-type="image/jpeg"/>
+<item id="imagem43.jpg" href="resources/images/imagem43.jpg" media-type="image/jpeg"/>
+<item id="imagem44.png" href="resources/images/imagem44.png" media-type="image/png"/>
+<item id="imagem45.png" href="resources/images/imagem45.png" media-type="image/png"/>
+<item id="imagem46.jpg" href="resources/images/imagem46.jpg" media-type="image/jpeg"/>
+<item id="imagem47.png" href="resources/images/imagem47.png" media-type="image/png"/>
+<item id="imagem48.png" href="resources/images/imagem48.png" media-type="image/png"/>
+<item id="imagem49.jpg" href="resources/images/imagem49.jpg" media-type="image/jpeg"/>
+<item id="imagem5.jpg" href="resources/images/imagem5.jpg" media-type="image/jpeg"/>
+<item id="imagem50.png" href="resources/images/imagem50.png" media-type="image/png"/>
+<item id="imagem51.jpg" href="resources/images/imagem51.jpg" media-type="image/jpeg"/>
+<item id="imagem52.png" href="resources/images/imagem52.png" media-type="image/png"/>
+<item id="imagem53.jpg" href="resources/images/imagem53.jpg" media-type="image/jpeg"/>
+<item id="imagem54.jpg" href="resources/images/imagem54.jpg" media-type="image/jpeg"/>
+<item id="imagem55.jpg" href="resources/images/imagem55.jpg" media-type="image/jpeg"/>
+<item id="imagem56.png" href="resources/images/imagem56.png" media-type="image/png"/>
+<item id="imagem57.jpg" href="resources/images/imagem57.jpg" media-type="image/jpeg"/>
+<item id="imagem58.jpg" href="resources/images/imagem58.jpg" media-type="image/jpeg"/>
+<item id="imagem59.png" href="resources/images/imagem59.png" media-type="image/png"/>
+<item id="imagem6.png" href="resources/images/imagem6.png" media-type="image/png"/>
+<item id="imagem60.png" href="resources/images/imagem60.png" media-type="image/png"/>
+<item id="imagem61.jpg" href="resources/images/imagem61.jpg" media-type="image/jpeg"/>
+<item id="imagem62.png" href="resources/images/imagem62.png" media-type="image/png"/>
+<item id="imagem63.png" href="resources/images/imagem63.png" media-type="image/png"/>
+<item id="imagem64.jpg" href="resources/images/imagem64.jpg" media-type="image/jpeg"/>
+<item id="imagem65.png" href="resources/images/imagem65.png" media-type="image/png"/>
+<item id="imagem66.png" href="resources/images/imagem66.png" media-type="image/png"/>
+<item id="imagem67.jpg" href="resources/images/imagem67.jpg" media-type="image/jpeg"/>
+<item id="imagem68.jpg" href="resources/images/imagem68.jpg" media-type="image/jpeg"/>
+<item id="imagem69.png" href="resources/images/imagem69.png" media-type="image/png"/>
+<item id="imagem7.jpg" href="resources/images/imagem7.jpg" media-type="image/jpeg"/>
+<item id="imagem71.jpg" href="resources/images/imagem71.jpg" media-type="image/jpeg"/>
+<item id="imagem73.png" href="resources/images/imagem73.png" media-type="image/png"/>
+<item id="imagem74.png" href="resources/images/imagem74.png" media-type="image/png"/>
+<item id="imagem78.jpg" href="resources/images/imagem78.jpg" media-type="image/jpeg"/>
+<item id="imagem8.jpg" href="resources/images/imagem8.jpg" media-type="image/jpeg"/>
+<item id="imagem9.jpg" href="resources/images/imagem9.jpg" media-type="image/jpeg"/>
+<item id="img1.jpg" href="resources/images/img1.jpg" media-type="image/jpeg"/>
+<item id="index.xhtml" href="index.xhtml" media-type="application/xhtml+xml"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="pagina_11.xhtml" href="content/pagina_11.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_13.xhtml" href="content/pagina_13.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_15.xhtml" href="content/pagina_15.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_18.xhtml" href="content/pagina_18.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_20.xhtml" href="content/pagina_20.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_22.xhtml" href="content/pagina_22.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_24.xhtml" href="content/pagina_24.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_26.xhtml" href="content/pagina_26.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_28.xhtml" href="content/pagina_28.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_30.xhtml" href="content/pagina_30.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_32.xhtml" href="content/pagina_32.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_34.xhtml" href="content/pagina_34.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_36.xhtml" href="content/pagina_36.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_38.xhtml" href="content/pagina_38.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_40.xhtml" href="content/pagina_40.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_42.xhtml" href="content/pagina_42.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_5.xhtml" href="content/pagina_5.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_6.xhtml" href="content/pagina_6.xhtml" media-type="application/xhtml+xml"/>
+<item id="pagina_9.xhtml" href="content/pagina_9.xhtml" media-type="application/xhtml+xml"/>
+<item id="quartacapa.png" href="resources/images/quartacapa.png" media-type="image/png"/>
+<item id="quartacapa.xhtml" href="content/quartacapa.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="index.xhtml"/>
+<itemref idref="toc"/>
+<itemref idref="pagina_5.xhtml"/>
+<itemref idref="pagina_6.xhtml"/>
+<itemref idref="pagina_9.xhtml"/>
+<itemref idref="pagina_11.xhtml"/>
+<itemref idref="pagina_13.xhtml"/>
+<itemref idref="pagina_15.xhtml"/>
+<itemref idref="pagina_18.xhtml"/>
+<itemref idref="pagina_20.xhtml"/>
+<itemref idref="pagina_22.xhtml"/>
+<itemref idref="pagina_24.xhtml"/>
+<itemref idref="pagina_26.xhtml"/>
+<itemref idref="pagina_28.xhtml"/>
+<itemref idref="pagina_30.xhtml"/>
+<itemref idref="pagina_32.xhtml"/>
+<itemref idref="pagina_34.xhtml"/>
+<itemref idref="pagina_36.xhtml"/>
+<itemref idref="pagina_38.xhtml"/>
+<itemref idref="pagina_40.xhtml"/>
+<itemref idref="pagina_42.xhtml"/>
+<itemref idref="quartacapa.xhtml"/>
+</spine>
+<guide><reference title="Sumário" href="index.xhtml#toc" type="toc"/></guide></package>

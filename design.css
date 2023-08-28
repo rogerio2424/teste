@@ -1,0 +1,425 @@
+@font-face {
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-style: normal;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-style: italic;
+    src: url(../fonts/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/Poppins-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-style: normal;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+/** padrões gerais **/
+@page {
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+main {
+    max-width: 630px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+/* Remove as margens, sobretudo em sistemas webkit. */
+body {
+    margin: 0;
+}
+#toc li {
+    margin-bottom: 0.5em;
+}
+#toc h1 {
+    font-family: "Acme";
+    text-align: center;
+}
+div.boxCreditos {
+    margin-top: 2em;
+} 
+
+/* Desativa a hifenização nos titulos parágrafos*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figcaption,
+li,
+blockquote {
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
+    page-break-after: avoid;
+}
+/* Controle de orfãs e viúvas. */
+p,li {
+  orphans: 2;
+  widows: 2;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-webkit-hyphens:none;
+	hyphens:none;
+
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+
+
+p.h1{
+	text-align: center;
+}
+
+p.texto_geral_1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0,9em; 
+    text-indent: 0;
+    text-align: left;
+    font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p.texto_geral_2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0,9em; 
+    text-indent: 0em;
+    text-align: center;
+    font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p.texto_geral_3 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1em; 
+	line-height:1.5em;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	text-indent: 0em;
+	text-align: left;
+	widows:2;
+}
+
+p.texto_geral_4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em; 
+    text-indent: 0;
+    text-align: center;
+    font-weight: normal;
+}
+
+.amarelo {
+background-color: #f7da7b;
+padding: 1em;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+.amareloTarja {
+background-color: #f7da7b;
+width: fit-content;
+padding-top: 0,5em;
+padding-bottom:0,5em;
+padding-left: 2em;
+padding-right: 2em;
+width: fit-content;
+}
+
+.verde {
+background-color: #b3dbb3;
+padding-top: 0,5em;
+padding-bottom:0,5em;
+padding-left: 2em;
+padding-right: 2em;
+width: fit-content;
+}
+
+.verdeclaro {
+background-color: #cde7cc;
+padding-top: 0,5em;
+padding-bottom:0,5em;
+padding-left: 2em;
+padding-right: 2em;
+
+}
+
+div.espaco{
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+div.direita{
+text-align: right;
+}
+
+ /*títulos*/
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+    margin: 1em 0 2em 0;
+    text-indent: 0;
+    text-align: left;
+    font-weight: normal;
+    font-weight: normal;
+}
+
+figure {
+    margin: 0em;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/* ------------ DEFINIÇÃO DA FICHA CATALOGRAFICA ------------ */
+
+
+.titficha {
+    text-align: center;
+    font-size: 90%;
+    margin: 1em 0 1em 0;
+    page-break-after: avoid;
+}
+div.ficha {
+	border: 1px solid;
+	padding: 0.5em;
+	margin: 0 0 1em 0;
+	page-break-before: avoid;
+	padding-left: 2em;
+	padding-bottom: 2em;
+}
+.ficha p {
+    margin: 0;
+    font-size: 90%;
+}
+.ficha .autor {
+    margin-top: 1em;
+    margin-left: 0em;
+    text-align: left;
+}
+.ficha p.titulo {
+    text-indent: 2em;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.ficha p.recursoDigital {
+    margin-top: 0;
+    text-indent: 0;
+    margin-left: 2em;
+}
+p.recursoDigital + p.formato {
+    margin-top: 1em;
+}
+.ficha p.tamanho {
+    margin-top: 0;
+    text-indent: 0;
+    margin-left: 2em;
+}
+.ficha p.formato {
+    margin-top: 0;
+    text-indent: 0;
+    margin-left: 2em;
+}
+.ficha p.modoAcesso {
+    margin-top: 0;
+    text-indent: 0;
+    margin-left: 2em;
+}
+span.notacaoAutor {
+    margin-right: 3em;
+}
+.ficha p.isbn {
+    margin-left: 2em;
+    text-indent: 0;
+    margin-top: 0em;
+    margin-bottom: 1em;
+}
+.ficha .classifica {
+    margin: 0;
+    text-indent: 2em;
+    margin-left: 0;
+}
+.ficha .num {
+    margin-left: 0;
+    text-indent: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.ficha span.CDD {
+    text-align: right;
+    float: right;
+}
+
+.ficha span.CDU {
+    text-align: right;
+    float: right;
+}
+
+div.fichaCatalografica {
+    font-size: 0.8em;
+    margin: 5%;
+}
+.indiceCatalogo {
+    margin-top: 0;
+    font-size: 0.9em;
+    text-align: center;
+    text-indent: 0;
+	margin-bottom:1em;
+}
+.bibliotecaria {
+    font-size: 0.9em;
+    text-align: left;
+    margin-top: 0;
+    text-indent: 0;
+} 
+
+/* ------------FIM DA FICHA CATALOGRAFICA ------------ */ 
+
+
+/* ------------TOP NAVBAR ------------ */
+nav.navbar {
+    max-width: 630px;
+    margin: 20px 0;
+    border: 1px outset rgb(193, 193, 193);
+    padding: 5px 10px;
+    background-color: rgb(246, 247, 250);
+    text-align: right;
+    display: block;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+nav.navbar ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav.navbar li {
+    display: inline;
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+}
+nav.navbar li a {
+    color: inherit;
+    text-decoration: none;
+}
+nav.navbar li a.none {
+    color: #eee;
+    text-decoration: none;
+    border-bottom: none;
+}
+nav.navbar li.next {
+    margin-left: 1em;
+}
+nav.navbar li.toc {
+    float: left;
+}
+nav#toc {
+    border-top: 1px solid;
+    margin-top: 2em;
+} 
+
+/* ------------FIM TOP NAVBAR ------------ */
+
+/* ------------TOP NAVBAR ------------ */
+nav.navbar {
+    max-width: 630px;
+    margin: 20px 0;
+    border: 1px outset rgb(193, 193, 193);
+    padding: 5px 10px;
+    background-color: rgb(246, 247, 250);
+    text-align: right;
+    display: block;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+nav.navbar ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav.navbar li {
+    display: inline;
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+}
+nav.navbar li a {
+    color: inherit;
+    text-decoration: none;
+}
+nav.navbar li a.none {
+    color: #eee;
+    text-decoration: none;
+    border-bottom: none;
+}
+nav.navbar li.next {
+    margin-left: 1em;
+}
+nav.navbar li.toc {
+    float: left;
+}
+nav#toc {
+    border-top: 1px solid;
+    margin-top: 2em;
+} 
+
+/* ------------FIM TOP NAVBAR ------------ */
+
+#toc li {
+margin-bottom: 0.5em;
+texto-align: left;
+font-family: 'playfair Display';
+list-style-type:none;
+
+}
+
+#toc li.marginTop{
+ margin-top: 2em
+}
+
+#toc a {
+    text-decoration: underline;
+    font-weight: normal;
+    color: inherit;
+    -webkit-text-fill-color: inherit;
+    text-decoration-color: blue;
+}
+
